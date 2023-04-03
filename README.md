@@ -19,6 +19,8 @@
   3. 44611: Pharmacies and Drug Stores
   4. Sales: Monthly OR Sales: Monthly Percent Change
   5. U.S. Total
+
+
 -Uncheck Seasonally Adjusted
 -Click: Get Data
 -Scroll to the bottom of the page where a table has appeared, providing requested data. 
