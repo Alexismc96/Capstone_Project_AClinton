@@ -28,3 +28,17 @@
 
 -Download data as XLS-H (horizontal excel table): one table for monthly sales and one table for percent change
 
+## Prepare Data
+
+Merge both xls files into one and clean data as needed. For this project, an additional row was added to represent annual percent change and annual sales revenue. 
+
+-Once merged, remove duplicated title rows 
+
+-Add annual percent change row
+
+-Add annual sales row 
+
+-Convert xls file to csv format
+
+-Upload data to repo 
+
