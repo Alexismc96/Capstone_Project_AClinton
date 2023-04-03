@@ -20,9 +20,11 @@
   4. Sales: Monthly OR Sales: Monthly Percent Change
   5. U.S. Total
 
-
 -Uncheck Seasonally Adjusted
+
 -Click: Get Data
+
 -Scroll to the bottom of the page where a table has appeared, providing requested data. 
+
 -Download data as XLS-H (horizontal excel table): one table for monthly sales and one table for percent change
 
