@@ -9,7 +9,7 @@
 - Research and discover useful data for the project goals
 - Use machine learning, predictive modeling techniques to complete the project purpose. 
 
-## Find the Data
+## Find Data
 
 -Data found at https://www.census.gov/econ/currentdata/?programCode=MRTS&startYear=2018&endYear=2022&categories[]=4521E&dataType=SM&geoLevel=US&adjusted=1&notAdjusted=1&errorData=0
 
