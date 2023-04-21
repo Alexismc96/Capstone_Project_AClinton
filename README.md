@@ -40,5 +40,20 @@ Merge both xls files into one and clean data as needed. For this project, an add
 
 -Convert xls file to csv format
 
--Upload data to repo 
+-Upload data to repo
+
+## Jupyter Notebook and Analysis of Data
+
+Open a new command prompt and move to relevant folder on local computer(this should be a folder in which all relavent documents, images, and project information is stored). Once in the correct folder location, connect to Jupyter Lab. Upon launch of Jupyter Lab, open a new notebook and rename to reflect the project. 
+In the new notebook:
+
+-Import pandas as pd
+
+-Import data using pd.read_csv *Ensure you are loading a csv file, not an xls file.
+
+-Create the dataframe using pd.DataFrame. Load data, and identify columns. 
+
+-Complete a basic view/analysis of the loaded dataframe. *This should include using df.head, df.describe, and any relevant updates/initial graphs. For this project, total sales revenue for each year was calculated using the .sum() function. Matplotlib was imported and used to create scatter plots for total sales data and total percent change data as well as a plot for comparison of each year's sales data by month. 
+
+### Prepare data for predictive analysis
 
