@@ -12,20 +12,15 @@
 ## Find Data
 
 -Data found at https://www.census.gov/econ/currentdata/?programCode=MRTS&startYear=2018&endYear=2022&categories[]=4521E&dataType=SM&geoLevel=US&adjusted=1&notAdjusted=1&errorData=0
-
 -Select the following to find the correct data: 
   1. Monthly Retail Trade and Food Service 
   2. Start: 2018  End: 2022
   3. 44611: Pharmacies and Drug Stores
   4. Sales: Monthly OR Sales: Monthly Percent Change
   5. U.S. Total
-
 -Uncheck Seasonally Adjusted
-
 -Click: Get Data
-
 -Scroll to the bottom of the page where a table has appeared, providing requested data. 
-
 -Download data as XLS-H (horizontal excel table): one table for monthly sales and one table for percent change
 
 ## Prepare Data
