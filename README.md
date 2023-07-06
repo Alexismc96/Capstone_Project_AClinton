@@ -95,3 +95,5 @@ Split data into a train and test model using the train_test_split module. Print 
 Transfer results of each model to an excel file. Using excel visualizations, create graphs to present and compare each model and related data. Using predicted y-values, graph each predicted value in comparison to actual values. Analyze and compare all models and data to determine which test provides best fit for project goals. 
 
 For this project, multiple regression model, polynomial regression model with a power of two, and polynomial regression model with a power of three represent the data and project goals best. 
+
+Link to Overleaf Project: https://www.overleaf.com/read/mjpkmjcbdkmx
